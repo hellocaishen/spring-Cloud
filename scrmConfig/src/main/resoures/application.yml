@@ -13,7 +13,7 @@ spring:
           uri: https://github.com/hellocaishen/SCRM/
           searchPaths: application*  #application*
           username: 1357023600@qq.com
-          password: LGCwsbg710
+          password: #password
   rabbitmq:
     host: 127.0.0.1
     port: 5672
